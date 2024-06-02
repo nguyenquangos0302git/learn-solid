@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-solid.iml" filepath="$PROJECT_DIR$/.idea/learn-solid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/open_close/open_close.iml" filepath="$PROJECT_DIR$/open_close/open_close.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single_responsibility/single_responsibility.iml" filepath="$PROJECT_DIR$/single_responsibility/single_responsibility.iml" />
+    </modules>
+  </component>
+</project>
