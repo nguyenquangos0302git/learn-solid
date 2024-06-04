@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÅÔÊ8ë‘±Âı1
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ïÆ³‘8“’±Âı1
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8“’±Âı1
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8’±Âı1
+S
+java:S6437"6Revoke and change this password, as it is compromised.(ïÆ³‘8Ÿ’±Âı1
+E	java:S108")Either remove or fill this block of code.(ßĞÔà8«’±Âı1
+J	java:S108")Either remove or fill this block of code.(»ÑÜäüÿÿÿÿ8¬’±Âı1
+K
+java:S1068	".Remove this unused "employeeId" private field.(¯®œ8­’±Âı1
