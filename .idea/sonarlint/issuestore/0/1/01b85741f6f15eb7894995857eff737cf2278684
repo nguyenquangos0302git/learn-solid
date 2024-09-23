@@ -1,0 +1,7 @@
+
+n
+java:S6204	"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ί§±08ϋΫϋπώ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(—€έ’ώÿÿÿÿ8ύΫϋπώ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Μ–εÿÿÿÿÿ8ώΫϋπώ1
